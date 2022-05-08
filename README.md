@@ -61,12 +61,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
+  - Yapılan işler konusunda her bir ekip üyesi fikir sahibi olmalı ve kimin neyi ne zamana yapması gerektiği bilinmeli.
+  - Toplantılar bir düzene oturtulmalı. Daha fazla görüşme yapılmalı, geribildirim alınmalı.
+  - Yapılan toplantılardaki iletişim olumlu, aynı şekilde devam edebilir.
+  - Bir araya gelince daha verimli çalışılıyor. Bunu göz önünde bulundurarak çalışmalara devam edilmeli.
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Scrum Master görevleri takip konusunda daha detaylı çalışmalı.
 
 -**Diğer Notlar**:
 - N/A
