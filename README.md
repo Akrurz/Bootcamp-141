@@ -61,6 +61,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product.JPG)
   ![Screenshot 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product2.JPG)
+  ![Screenshot 3](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product3.JPG)
   
 
 - **Sprint Review**: 
