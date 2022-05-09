@@ -65,7 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   
 
 - **Sprint Review**: 
-Alınan kararlar: Fikir sürecinde gerektiğinden fazla zaman harcandı. Proje boyutunun büyüklüğüne dair öngörülmemiş sorunlarla karşılaşıldı. Çözümlere dair çalışamalar 2.Sprint'te devam edecek. Bu sprintte oyun detayları ekibin kafasında netleşti ve çalışmalar sprint sonuna doğru hızkazandı. Oyunun içeriğindeki öğretici bölümler için ayrıca düşünülmeli. 
+Alınan kararlar: Fikir sürecinde gerektiğinden fazla zaman harcandı. Proje boyutunun büyüklüğüne dair öngörülmemiş sorunlarla karşılaşıldı. Çözümlere dair çalışamalar 2.Sprint'te devam edecek. Bu sprintte oyun detayları ekibin kafasında netleşti ve çalışmalar sprint sonuna doğru hız kazandı. Oyunun içeriğindeki öğretici bölümler için ayrıca düşünülmeli. 
 Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
 
 - **Sprint Retrospective:**
