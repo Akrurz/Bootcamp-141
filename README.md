@@ -35,7 +35,7 @@ Furkan Küçük-Developer
 
 ## Product Backlog URL
 
-[Trello Backlog Board](https://trello.com/b/AmiABGTZ/google-bootcamp)
+[Trello Backlog Board](https://trello.com/invite/b/AmiABGTZ/3b945bf5d74defd558fc533a59d38c9b/google-bootcamp)
 
 ---
 
