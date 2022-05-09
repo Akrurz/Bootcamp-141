@@ -51,7 +51,8 @@ Furkan Küçük-Developer
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken turuncu item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış işleri temsil etmektedir. Story'ler panolara isim verilerek düzenlenmiş, altına da o alandaki işler sıralanmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının erişilebilirlik açısından Discord ya da Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının erişilebilirlik açısından Discord ya da Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Project Management klasörümüzde tarafımızdan paylaşılmaktadır: [Daily Scrum Notes]
+-(https://github.com/Akrurz/Bootcamp-141/tree/main/ProjectManagement/DailyScrumMeetingNotes) 
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/trello%20backlog%20ss.png)
