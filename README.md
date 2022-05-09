@@ -55,6 +55,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/trello%20backlog%20ss.png)
+![Backlog 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/trello%20backlog%20ss2.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product.JPG)
