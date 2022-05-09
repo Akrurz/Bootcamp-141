@@ -19,7 +19,7 @@ Furkan Küçük-Developer
 
 ## Ürün Açıklaması
 
-- Dejavu isimli oyunumuz gizem dolu bir macerada  hem eğlenebileceğiniz hem de öğrenebileceğiniz bir hayat kalma oyunu. 
+- Dejavu isimli oyunumuz gizem dolu bir macerada  hem eğlenebileceğiniz hem de öğrenebileceğiniz bir hayatta kalma oyunu. 
 
 ## Ürün Özellikleri
 
