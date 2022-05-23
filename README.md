@@ -67,16 +67,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   ![Screenshot 6](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character2.png)
 
 - **Sprint Review**: 
-Alınan kararlar: Fikir sürecinde gerektiğinden fazla zaman harcandı. Proje boyutunun büyüklüğüne dair öngörülmemiş sorunlarla karşılaşıldı. Çözümlere dair çalışamalar 2.Sprint'te devam edecek. Bu sprintte oyun detayları ekibin kafasında netleşti ve çalışmalar sprint sonuna doğru hız kazandı. Oyunun içeriğindeki öğretici bölümler için ayrıca düşünülmeli. 
+Alınan kararlar: Oyuna, detaylar biraz daha azaltılarak devam edilecek. Proje boyutunun büyüklüğüne dair tüm ürünler birleştirildikten sonra çözüme gidilecek. Oyun ana hatlarıyla ortaya çıktı; levellar ve karakter çalışır durumda. Arayüzü tasarımlarına ihtiyaç var. Oyunu senaryoyla birleştirebilmek için game design konusunda gelişmeler gerekiyor.
 Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
 
 - **Sprint Retrospective:**
-  - Yapılan işler konusunda her bir ekip üyesi fikir sahibi olmalı ve kimin neyi ne zamana yapması gerektiği bilinmeli.
-  - Toplantılar bir düzene oturtulmalı. Daha fazla görüşme yapılmalı, geribildirim alınmalı.
+  - Yapılan işler konusunda her bir ekip üyesi fikir sahibi olmalı ve kimin neyi ne zamana yapması gerektiği bilinmeli. Ekip olarak sürekli iletişimde olamasak bile birbirini ilgilendiren işlerle uğraşan üyeler iletişim halinde olmalı.
+  - II.Sprint'te toplantılarda yeterli verimi alamadık.
+  - Son sprintte daha fazla görüşme yapılmalı, geribildirim alınmalı.
   - Yapılan toplantılardaki iletişim olumlu, aynı şekilde devam edebilir.
   - Bir araya gelince daha verimli çalışılıyor. Bunu göz önünde bulundurarak çalışmalara devam edilmeli.
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Scrum Master görevleri takip konusunda daha detaylı çalışmalı.
+  - Şimdiye kadar ortaya çıkan ürünler hedeflerimizle uyumlu. Fakat daha ileri aşamada olabilirdik.
 
 -**Diğer Notlar**:
 - N/A
