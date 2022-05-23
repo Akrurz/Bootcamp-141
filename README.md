@@ -67,7 +67,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   ![Screenshot 6](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character2.png)
 
 - **Sprint Review**: 
-Alınan kararlar: Oyuna, detaylar biraz daha azaltılarak devam edilecek. Proje boyutunun büyüklüğüne dair tüm ürünler birleştirildikten sonra çözüme gidilecek. Oyun ana hatlarıyla ortaya çıktı; levellar ve karakter çalışır durumda. Arayüzü tasarımlarına ihtiyaç var. Oyunu senaryoyla birleştirebilmek için game design konusunda gelişmeler gerekiyor.
+Alınan kararlar: Oyuna, detaylar biraz daha azaltılarak devam edilecek. Proje boyutunun büyüklüğüne dair tüm ürünler birleştirildikten sonra çözüme gidilecek. Oyun ana hatlarıyla ortaya çıktı; levellar ve karakter çalışır durumda. Arayüzü tasarımlarına ihtiyaç var. Oyunu senaryosunun planlana mekanikler ile birleştirebilmek için game design konusunda yeni kararların alınması gerekiyor.
 Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
 
 - **Sprint Retrospective:**
