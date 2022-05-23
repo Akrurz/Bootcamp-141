@@ -63,7 +63,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   ![Screenshot 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product_level.png)
   ![Screenshot 3](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product_level_lava.png)
   ![Screenshot 4](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/senaryo.jpg)
-  
+  ![Screenshot 5](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character.png)
+  ![Screenshot 6](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character2.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Fikir sürecinde gerektiğinden fazla zaman harcandı. Proje boyutunun büyüklüğüne dair öngörülmemiş sorunlarla karşılaşıldı. Çözümlere dair çalışamalar 2.Sprint'te devam edecek. Bu sprintte oyun detayları ekibin kafasında netleşti ve çalışmalar sprint sonuna doğru hız kazandı. Oyunun içeriğindeki öğretici bölümler için ayrıca düşünülmeli. 
