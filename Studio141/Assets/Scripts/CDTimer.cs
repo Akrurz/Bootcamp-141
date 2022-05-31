@@ -10,6 +10,7 @@ public class CDTimer : MonoBehaviour
 
         [SerializeField] private TMP_Text _text;
         [SerializeField] private GameObject _gameOver;
+         
        public static float currentTime = 0f;
         float startTime = 240;
         float ratio = 0.016f;

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using MusicListNS;
-using StarterAssets;
+
 using CDTimerNS; //Countdown timer
 
 
@@ -15,7 +15,7 @@ using CDTimerNS; //Countdown timer
         [SerializeField] GameObject _gameObject;
         // private int totalSpawnPoints;
         int y;
-        ThirdPersonController thirdPersonController;
+   
 
         private int count = 0;
 
@@ -26,8 +26,7 @@ using CDTimerNS; //Countdown timer
             music = GameObject.Find("AudioManager");
             musicList = music.GetComponent(typeof(MusicList)) as MusicList;
         
-            thirdPersonController = GetComponent<ThirdPersonController>();
-
+           
 
         }
         private void OnTriggerEnter(Collider other)

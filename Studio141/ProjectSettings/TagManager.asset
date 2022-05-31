@@ -8,6 +8,7 @@ TagManager:
   - food
   - AudioManager
   - ground
+  - nextlevel
   layers:
   - Default
   - TransparentFX
