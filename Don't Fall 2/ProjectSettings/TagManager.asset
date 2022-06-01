@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - food
+  - apple
+  - banana
+  - avocado
   layers:
   - Default
   - TransparentFX

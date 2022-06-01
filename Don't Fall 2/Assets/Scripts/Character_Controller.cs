@@ -44,6 +44,7 @@ public class Character_Controller : MonoBehaviour
             anim.SetFloat("MovementDirection", moveVal.x);
             Debug.Log(moveVal.y);
             run = true;
+            
             //Debug.Log(moveVal.x + " " + moveVal.y);
             //rgb.transform.position += new Vector3(moveVal.x * moveSpeed * Time.deltaTime, 0, moveVal.y * moveSpeed * Time.deltaTime);
         }
