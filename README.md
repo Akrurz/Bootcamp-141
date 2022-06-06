@@ -6,11 +6,11 @@ Studio 141 (141.Takım)
 
 ## Takım Elemanları
 
-Çağrı Zengin-Product Owner
-Zeynep Elmas-Scrum Master
-Sabuha Rajan Kaya-Developer
-Ömer Cenikli-Developer
-Furkan Küçük-Developer
+- Çağrı Zengin-Product Owner
+- Zeynep Elmas-Scrum Master
+- Sabuha Rajan Kaya-Developer
+- Ömer Cenikli-Developer
+- Furkan Küçük-Developer
 
 
 ## Ürün İsmi
@@ -52,7 +52,7 @@ Furkan Küçük-Developer
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken turuncu item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış işleri temsil etmektedir. Story'ler panolara isim verilerek düzenlenmiş, altına da o alandaki işler sıralanmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının erişilebilirlik açısından Discord ya da Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Project Management klasörümüzde tarafımızdan paylaşılmaktadır: 
--(https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/DAILY%20SCRUM%20NOTES.docx) 
+-(https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/DAILY_SCRUM_NOTES.docx) 
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/sonsprint%20backlog1.png)
@@ -65,16 +65,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
   ![Screenshot 4](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product4.JPG)
  
 - **Sprint Review**: 
-Alınan kararlar: Oyuna, detaylar biraz daha azaltılarak devam edilecek. Proje boyutunun büyüklüğüne dair tüm ürünler birleştirildikten sonra çözüme gidilecek. Oyun ana hatlarıyla ortaya çıktı; levellar ve karakter çalışır durumda. Arayüzü tasarımlarına ihtiyaç var. Oyunu senaryosunun planlana mekanikler ile birleştirebilmek için game design konusunda yeni kararların alınması gerekiyor.
+Alınan kararlar: Oyun, en basit haliyle tamamlanmış durumda. Karakter, toplanabilir objeler ve oyuna entegre edilen puzzle'lar sorunsuz çalışıyor. Puzzle sayısı artırılabilirdi fakat süre sıkıntımız vardı. Arayüz tasarımları oyunun atmosferine uygun.
 Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
 
 - **Sprint Retrospective:**
-  - Yapılan işler konusunda her bir ekip üyesi fikir sahibi olmalı ve kimin neyi ne zamana yapması gerektiği bilinmeli. Ekip olarak sürekli iletişimde olamasak bile birbirini ilgilendiren işlerle uğraşan üyeler iletişim halinde olmalı.
-  - II.Sprint'te toplantılarda yeterli verimi alamadık.
-  - Son sprintte daha fazla görüşme yapılmalı, geribildirim alınmalı.
-  - Yapılan toplantılardaki iletişim olumlu, aynı şekilde devam edebilir.
-  - Bir araya gelince daha verimli çalışılıyor. Bunu göz önünde bulundurarak çalışmalara devam edilmeli.
-  - Şimdiye kadar ortaya çıkan ürünler hedeflerimizle uyumlu. Fakat daha ileri aşamada olabilirdik.
+  - II.Sprint'te toplantılarda yeterli verimliliği alamamamızın sonuçları son sprinte de yansıdı.
+  - Meydana gelen iletişim kopuklukları verimliliği düşürdü.
+  - Sonuç olarak ortaya çıkan ürünler hedeflerimizle uyumlu fakat daha gelişmiş halde olabilirdi.
+  - Yine de eksikleriyle de olsa yapılması planlanan tüm görevler tamamlandı.
 
 -**Diğer Notlar**:
 - N/A
