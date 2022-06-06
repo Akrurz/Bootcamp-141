@@ -19,7 +19,7 @@ Furkan Küçük-Developer
 
 ## Ürün Açıklaması
 
-- Dejavu isimli oyunumuz gizem dolu bir macerada  hem eğlenebileceğiniz hem de öğrenebileceğiniz bir hayatta kalma oyunu. 
+- Don't Fall isimli oyunumuz gizem dolu bir macerada  hem eğlenebileceğiniz hem de öğrenebileceğiniz bir hayatta kalma oyunu. 
 
 ## Ürün Özellikleri
 
@@ -45,9 +45,9 @@ Furkan Küçük-Developer
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:40 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde her sprint'in en azından 40 puan ile tamamlanması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Mevcut Trello dosyamızda sadece II.Sprint için tamamlanması gereken ve tamamlanan görevler yer almaktadır. Önceki sprintte tamamlanan görevler ''geri dönüşüm kutusu'' başlığı altında saklanmıştır. Dosya çalışma boyunca güncellenecektir. Sprint başına tahmin edilen puan sayısı, görevlerin önceliğinin değişmesine göre değişebilir. II.Sprint için belirlenen görevler tamamlanmıştır. Puanlamayla ilgili detaylar genel başlıklar halinde Trello'da yer almaktadır. (https://trello.com/c/QMkyNATp/24-sprint-g%C3%B6revleri-ve-puanlar%C4%B1)
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Mevcut Trello dosyamızda sadece II.Sprint için tamamlanması gereken ve tamamlanan görevler yer almaktadır. Önceki sprintte tamamlanan görevler ''geri dönüşüm kutusu'' başlığı altında saklanmıştır. Dosya çalışma boyunca güncellenecektir. Sprint başına tahmin edilen puan sayısı, görevlerin önceliğinin değişmesine göre değişebilir. III.Sprint için belirlenen görevler tamamlanmıştır. Puanlamayla ilgili detaylar genel başlıklar halinde Trello'da yer almaktadır. (https://trello.com/c/QMkyNATp/24-sprint-g%C3%B6revleri-ve-puanlar%C4%B1)
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken turuncu item'lar yapılacak işleri (task) gösterirken, sarı item'lar yapılmakta olanları, yeşil item'lar tamamlanmış işleri temsil etmektedir. Story'ler panolara isim verilerek düzenlenmiş, altına da o alandaki işler sıralanmıştır.
 
