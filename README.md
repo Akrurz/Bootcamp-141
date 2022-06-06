@@ -55,8 +55,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
 -(https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/DAILY%20SCRUM%20NOTES.docx) 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/trellobacklog2sprint.png)
-![Backlog 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/trellobacklog2sprint2.png)
+![Backlog 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/sonsprint%20backlog1.png)
+![Backlog 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/sonsprint%20backlog2.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/productvideo.mp4)
