@@ -17,7 +17,7 @@ using CDTimerNS; //Countdown timer
         int y;
    
 
-        private int count = 0;
+        
 
         MusicList musicList;
       
@@ -33,7 +33,7 @@ using CDTimerNS; //Countdown timer
         {
             if (other.gameObject.CompareTag("food"))
             {
-                count++;
+             
              CDTimer.currentTime= CDTimer.currentTime+30;
                 other.gameObject.SetActive(false);
                 AudioSource.PlayClipAtPoint(musicList.music[0], gameObject.transform.position);

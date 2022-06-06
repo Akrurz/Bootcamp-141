@@ -9,6 +9,8 @@ TagManager:
   - apple
   - banana
   - avocado
+  - nextlevel
+  - tonextlevel
   layers:
   - Default
   - TransparentFX

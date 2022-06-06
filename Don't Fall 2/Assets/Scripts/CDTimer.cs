@@ -15,7 +15,7 @@ public class CDTimer : MonoBehaviour
         Animator anim;
          
        public static float currentTime = 0f;
-        float startTime = 0.2f;
+        float startTime = 30f;
         float ratio = 0.016f;
         int hour = 0;
         int minutes = 0;
