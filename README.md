@@ -59,13 +59,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken t
 ![Backlog 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/sonsprint%20backlog2.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/productvideo.mp4)
-  ![Screenshot 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product_level.png)
-  ![Screenshot 3](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product_level_lava.png)
-  ![Screenshot 4](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/senaryo.jpg)
-  ![Screenshot 5](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character.png)
-  ![Screenshot 6](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/character2.png)
-
+  ![Screenshot 1](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product1.png)
+  ![Screenshot 2](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product2.png)
+  ![Screenshot 3](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product3.JPG)
+  ![Screenshot 4](https://github.com/Akrurz/Bootcamp-141/blob/main/ProjectManagement/product4.JPG)
+ 
 - **Sprint Review**: 
 Alınan kararlar: Oyuna, detaylar biraz daha azaltılarak devam edilecek. Proje boyutunun büyüklüğüne dair tüm ürünler birleştirildikten sonra çözüme gidilecek. Oyun ana hatlarıyla ortaya çıktı; levellar ve karakter çalışır durumda. Arayüzü tasarımlarına ihtiyaç var. Oyunu senaryosunun planlana mekanikler ile birleştirebilmek için game design konusunda yeni kararların alınması gerekiyor.
 Sprint Review katılımcıları: Çağrı Zengin, Zeynep Elmas, Ömer Cenikli, Sabuha Rajan Kaya, Furkan Küçük
