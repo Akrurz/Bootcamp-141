@@ -9,7 +9,7 @@ Studio 141 (141.Takım)
 - Çağrı Zengin-Product Owner
 - Zeynep Elmas-Scrum Master
 - Sabuha Rajan Kaya-Developer
-- Ömer Cenikli-Developer
+- Ömer Cenikli-Developer.
 - Furkan Küçük-Developer
 
 
